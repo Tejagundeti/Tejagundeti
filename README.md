@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejagundeti&label=Profile%20views&color=0e75b6&style=flat" alt="tejagundeti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejagundeti" alt="tejagundeti" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/teja_gundeti_" target="blank"><img src="https://img.shields.io/twitter/follow/teja_gundeti_?logo=twitter&style=for-the-badge" alt="teja_gundeti_" /></a> </p>
 
 - 🌱 I’m currently learning **DSA & MernStack**
@@ -14,10 +12,6 @@
 - 📫 How to reach me **tejagundeti74@gmail.com | Linkedin: www.linkedin.com/in/tejagundeti**
 
 - ⚡ Fun fact : **I try to learn most of the things by myself😅!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejagundeti&show_icons=true&locale=en" alt="tejagundeti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejagundeti&" alt="tejagundeti" /></p>
+
 
