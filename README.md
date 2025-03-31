@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/tejagundeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejagundeti" height="30" width="40" /></a>
 <a href="https://instagram.com/tejauncovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejauncovers" height="30" width="40" /></a>
 <a href="https://medium.com/@tejagundeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejagundeti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tejauncovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tejauncovers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@tejauncovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tejauncovers" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gundetiteja45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gundetiteja45" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/teja_chinnu_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teja_chinnu_28" height="30" width="40" /></a>
 </p>
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejagundeti&show_icons=true&locale=en" alt="tejagundeti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejagundeti&" alt="tejagundeti" /></p>
+
