@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja Gundeti</h1>
-<h3 align="center">I am a Versatile Computer Science student skilled in Python, Java, MERN Stack, DSA and SQL. With proven ability in Problem Solving, Full-stack development, Database Management and Cloud Computing. Eager to bring problem-solving skills and collaborative energy to impactful internship or full-time roles.</h3>
+<h3 align="center">I am a Versatile Computer Science student skilled in Python, Java, DSA and SQL. With proven ability in Problem Solving, Full-stack development, Database Management and Cloud Computing. Eager to bring problem-solving skills and collaborative energy to impactful internship or full-time roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejagundeti&label=Profile%20views&color=0e75b6&style=flat" alt="tejagundeti" /> </p>
 
