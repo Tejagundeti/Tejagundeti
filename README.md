@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **tejagundeti74@gmail.com | Linkedin: www.linkedin.com/in/tejagundeti**
 
+- 💼 My Portfolio Website **https://my-portfolio-sand-one-85.vercel.app/**
+
+- 🤖 My_AI_Assistant **https://huggingface.co/spaces/tejagundeti/My_AI_Assistant**
+
 - ⚡ Fun fact : **I try to learn most of the things by myself😅!**
 
 <h3 align="left">Connect with me:</h3>
