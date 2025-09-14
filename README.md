@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/teja_gundeti_" target="blank"><img src="https://img.shields.io/twitter/follow/teja_gundeti_?logo=twitter&style=for-the-badge" alt="teja_gundeti_" /></a> </p>
 
-- 🌱 I’m currently learning **DSA & MernStack**
+- 🌱 I’m currently learning **Full Stack Development & Data Analysis**
 
 - 📝 I regularly try to stay updated by surfing [moneycontrol,mint,bloomberg,etc](moneycontrol,mint,bloomberg,etc)
 
