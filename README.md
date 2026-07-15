@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teja Gundeti</h1>
-<h3 align="center">Computer Science student skilled in Python, Java, SQL and Data Analysis, AI, LLM's with strengths in problem-solving and
-teamwork. Eager to build scalable solutions and extract insights from complex data in an internship or full-time role.</h3>
+<h3 align="center">Computer Science graduate with skills in Python, Java, SQL, AI, Full-Stack Development, and Data Analytics. Experienced
+in developing AI applications, web solutions, and data-driven systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejagundeti&label=Profile%20views&color=0e75b6&style=flat" alt="tejagundeti" /> </p>
 
