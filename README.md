@@ -8,9 +8,7 @@ in developing AI applications, web solutions, and data-driven systems.</h3>
 
 - 🌱 I’m currently learning **Full Stack Development & Data Analysis**
 
-- 📝 I regularly try to stay updated by surfing [moneycontrol,mint,bloomberg,etc](moneycontrol,mint,bloomberg,etc)
-
-- 📫 How to reach me **tejagundeti74@gmail.com | Linkedin: www.linkedin.com/in/tejagundeti**
+- 📫 How to reach me **tejagundeti74@gmail.com | Linkedin: https://www.linkedin.com/in/tejagundeti/**
 
 - 💼 My Portfolio Website **https://my-portfolio-sand-one-85.vercel.app/**
 
@@ -20,13 +18,12 @@ in developing AI applications, web solutions, and data-driven systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teja_gundeti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teja_gundeti_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tejagundeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejagundeti" height="30" width="40" /></a>
-<a href="https://instagram.com/tejauncovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejauncovers" height="30" width="40" /></a>
-<a href="https://medium.com/@tejagundeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejagundeti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tejauncovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tejauncovers" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gundetiteja45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gundetiteja45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/teja_chinnu_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teja_chinnu_28" height="30" width="40" /></a>
+<a href="https://x.com/Teja_gundeti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teja_gundeti_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejagundeti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejagundeti" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tejauncovers?igsh=d3k1cWMyanF5aGRi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejauncovers" height="30" width="40" /></a>
+<a href="https://youtube.com/@tejauncovers?si=dzKcCaf6oWuabAxK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tejauncovers" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/gundetiteja45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gundetiteja45" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/teja_chinnu_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teja_chinnu_28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
